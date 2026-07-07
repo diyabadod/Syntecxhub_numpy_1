@@ -52,7 +52,7 @@ Company-Productivity-Analyzer/
 
 # 📊 Concepts Demonstrated
 
-* NumPy
+# NumPy
 
 - Array creation
 - Mathematical operations (`np.sum`)
@@ -60,19 +60,19 @@ Company-Productivity-Analyzer/
 - Array traversal
 - Array validation
 
-* File Handling
+# File Handling
 
 - Reading structured data from text files
 - Converting text into integer arrays
 
-* Object-Oriented Programming
+# Object-Oriented Programming
 
 - Class creation
 - Constructors
 - Instance methods
 - Data validation
 
-* Data Visualization
+# Data Visualization
 
 - Line plots
 - Axis labeling
@@ -138,6 +138,3 @@ Through this project, I learned:
 
 # 👨‍💻 Author
 Diya 
-
-
-This project was developed as part of my internship to enhance my practical knowledge of Python, NumPy, Matplotlib, file handling, data visualization, and object-oriented programming.
